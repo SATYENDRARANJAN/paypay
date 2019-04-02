@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">PayPay</string>
+<string-array name="curr_array">
+    <item>USA</item>
+    <item>JPA</item>
+    <item>INR</item>
+</string-array>
+</resources>
